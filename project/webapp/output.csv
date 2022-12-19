@@ -1,0 +1,6 @@
+,id,id_order,client_name,client_surname,order_date,price
+0,1,1,Marshal,Bugachev,03.11.2022,3500
+1,2,2,Karl,Golovko,15.05.2022,6450
+3,4,3,Maria,Koval,27.09.2022,10000
+4,5,5,Gabriel,Agrest,04.08.2022,12000
+6,7,7,Tanya,Chen,11.12.2022,7800
